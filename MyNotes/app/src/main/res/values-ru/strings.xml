@@ -1,0 +1,45 @@
+<resources>
+<!--    <string name="app_name">NotesApp</string>-->
+<!--    <string name="notes">My Notes</string>-->
+<!--    <string name="notes_title">Notes Title</string>-->
+<!--    <string name="notes_sub_title">Notes Sub Title</string>-->
+<!--    <string name="notes_desc">Enter Note Here</string>-->
+<!--    <string name="web_url">Enter Web Url</string>-->
+<!--    <string name="ok">Ok</string>-->
+<!--    <string name="cancel">Cancel</string>-->
+<!--    <string name="storage_permission_text">This app needs access to your storage.</string>-->
+<!--    <string name="search">Search your notes</string>-->
+<!--    &lt;!&ndash; TODO: Remove or change this placeholder text &ndash;&gt;-->
+<!--    <string name="hello_blank_fragment">Hello blank fragment</string>-->
+<!--    <string name="pick_color">Pick Color</string>-->
+<!--    <string name="add_web_link">Add Web Link</string>-->
+<!--    <string name="delete_note">Delete Note</string>-->
+<!--    <string name="lang_eng">English</string>-->
+<!--    <string name="lang_ru">Russian</string>-->
+
+
+    <string name="app_name">NotesApp</string>
+    <string name="notes">Мои Заметки</string>
+    <string name="notes_title">Название</string>
+    <string name="notes_sub_title">Подзаголовок</string>
+    <string name="notes_desc">Ввод заметки</string>
+    <string name="web_url">Ввод ссылки</string>
+    <string name="ok">Ок</string>
+    <string name="cancel">Отмена</string>
+    <string name="storage_permission_text">Этому приложению требуется доступ к вашему хранилищу.</string>
+    <string name="search">Поиск</string>
+<!--     TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pick_color">Выбрать цвет</string>
+    <string name="add_web_link">Добавить ссылку</string>
+    <string name="delete_note">Удалить заметку</string>
+    <string name="lang_eng">Английский</string>
+    <string name="lang_ru">Русский</string>
+    <string name="title_req">Название не введено</string>
+    <string name="subtitle_req">Подзаголовок не введен</string>
+    <string name="text_req">Текст заметки не введен</string>
+    <string name="url_req">Ссылка не введена</string>
+    <string name="url_not_valid">Ссылка неверно написана</string>
+
+
+</resources>
