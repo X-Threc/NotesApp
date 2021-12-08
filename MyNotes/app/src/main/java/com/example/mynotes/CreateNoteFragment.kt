@@ -225,6 +225,7 @@ class CreateNoteFragment : BaseFragment(){
 
                 "Blue" -> {
                     selectedColor = p1.getStringExtra("selectedColor")!!
+                    print(selectedColor)
                     colorView.setBackgroundColor(Color.parseColor(selectedColor))
 
                 }
